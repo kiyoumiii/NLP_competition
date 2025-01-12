@@ -1,1 +1,2 @@
 # NLP_competition
+使用经典的seq2seq和transformer模型，完成基于小牛词典语料库的机器翻译挑战赛
